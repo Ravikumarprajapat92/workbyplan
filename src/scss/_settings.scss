@@ -1,0 +1,18 @@
+$primary-color: rgb(205, 215, 218);
+$secondary-color: rgb(236, 235, 240);
+$light-orange: rgb(244, 192, 91);
+$dark-orange: rgb(249, 164, 4);
+
+
+*{
+  font-family: Poppins, sans-serif;
+}
+
+%theme-btn {
+  align-self: center;
+  border: none;
+  padding: 15px 50px;
+  border-radius: 30px;
+  font-weight: 500;
+  outline: none;
+}
